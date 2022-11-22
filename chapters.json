@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "637c55ee040952bcffd63e6c"
+  },
+  "title": "capitulo 1 los 100 ",
+  "description": "Capitulo 1 los 100",
+  "videoUrlCharter": "https://www.youtube.com/watch?v=nrDFmKezQko",
+  "seriesIdBelongs": {
+    "$oid": "637c549f040952bcffd63e64"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c563e040952bcffd63e72"
+  },
+  "title": "capitulo 2 los 100 ",
+  "description": "Capitulo 2 los 100",
+  "videoUrlCharter": "https://www.youtube.com/watch?v=NzKca6jpF-w",
+  "seriesIdBelongs": {
+    "$oid": "637c549f040952bcffd63e64"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c5681040952bcffd63e7e"
+  },
+  "title": "capitulo 3 los 100 ",
+  "description": "Capitulo 3 los 100",
+  "videoUrlCharter": "https://www.youtube.com/watch?v=I4HiDUbIqhc",
+  "seriesIdBelongs": {
+    "$oid": "637c549f040952bcffd63e64"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c57b4040952bcffd63e84"
+  },
+  "title": "capitulo 1 manifiesto ",
+  "description": "Capitulo 1 manifiesto",
+  "videoUrlCharter": "https://www.youtube.com/watch?v=y9ao2k2gkRM",
+  "seriesIdBelongs": {
+    "$oid": "637c5530040952bcffd63e68"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c57e0040952bcffd63e8a"
+  },
+  "title": "capitulo 2 manifiesto ",
+  "description": "Capitulo 2 manifiesto",
+  "videoUrlCharter": "https://www.youtube.com/watch?v=EKrWsY-VGq0",
+  "seriesIdBelongs": {
+    "$oid": "637c5530040952bcffd63e68"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c5807040952bcffd63e90"
+  },
+  "title": "capitulo 3 manifiesto ",
+  "description": "Capitulo 3 manifiesto",
+  "videoUrlCharter": "https://www.youtube.com/watch?v=9dD262OUCn8",
+  "seriesIdBelongs": {
+    "$oid": "637c5530040952bcffd63e68"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "637c5349040952bcffd63e55"
+  },
+  "email": "lucassaa@gmail.com",
+  "password": "$2a$10$tfc17UaFU/Iz07E.qKVkf.dUeNX2GbDjlh.T2GcDAcdCq9fAarMfW",
+  "registerDate": {
+    "$date": {
+      "$numberLong": "1669090703585"
+    }
+  },
+  "favoriteSeries": [],
+  "__v": 0
+}]

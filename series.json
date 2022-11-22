@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "637c549f040952bcffd63e64"
+  },
+  "title": "los 100",
+  "description": "vuelven de espacio",
+  "coverImageUrl": "https://images.justwatch.com/poster/243673095/s332/temporada-4",
+  "category": "drama",
+  "chaptersId": [
+    {
+      "$oid": "637c55ee040952bcffd63e6c"
+    },
+    {
+      "$oid": "637c563e040952bcffd63e72"
+    },
+    {
+      "$oid": "637c5681040952bcffd63e7e"
+    }
+  ],
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "637c5530040952bcffd63e68"
+  },
+  "title": "manifiesto",
+  "description": "desaparece el avion y vuelven despues de 5 años",
+  "coverImageUrl": "https://hiramnoriega.com/wp-content/uploads/2022/07/Manifiesto-Principal.jpg",
+  "category": "suspenso",
+  "chaptersId": [
+    {
+      "$oid": "637c57b4040952bcffd63e84"
+    },
+    {
+      "$oid": "637c57e0040952bcffd63e8a"
+    },
+    {
+      "$oid": "637c5807040952bcffd63e90"
+    }
+  ],
+  "__v": 3
+}]
